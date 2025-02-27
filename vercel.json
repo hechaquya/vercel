@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/(.*)", "destination": "https://www.bg7iae.com/$1" }
+    ]
+}
