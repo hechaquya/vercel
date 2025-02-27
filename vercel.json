@@ -5,7 +5,7 @@
       "src": "/(.*)",
       "status": 307,
       "headers": {
-        "Location": "https://www.zhaolaoshi.fun"
+        "Location": "https://www.baidu.com"
       }
     }
   ]
